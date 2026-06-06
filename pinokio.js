@@ -28,7 +28,7 @@ function adminHref(baseUrl, redirect) {
 module.exports = {
   version: "7.0",
   title: "oMLX",
-  description: "LLM inference server with continuous batching and SSD KV caching for Apple Silicon Mac. https://github.com/jundot/omlx",
+  description: "LLM inference server for Apple Silicon Mac, powered by MLX https://github.com/jundot/omlx",
   icon: "icon.svg",
   menu: async (kernel, info) => {
     const installed = info.exists("app/env")
