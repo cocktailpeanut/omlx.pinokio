@@ -1,0 +1,21 @@
+{
+  "title": "oMLX",
+  "icon": "icon.svg",
+  "description": "LLM inference server with continuous batching and SSD KV caching for Apple Silicon Mac.",
+  "platform": [
+    "darwin"
+  ],
+  "arch": [
+    "arm64"
+  ],
+  "links": [
+    {
+      "title": "Repository",
+      "value": "https://github.com/jundot/omlx"
+    },
+    {
+      "title": "Documentation",
+      "value": "https://github.com/jundot/omlx#readme"
+    }
+  ]
+}
